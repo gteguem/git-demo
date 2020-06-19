@@ -12,3 +12,5 @@ La vie n'est pas un jeu
 
 Website context
 	1 signature.html
+	Website is just so awesome
+	
