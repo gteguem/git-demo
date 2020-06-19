@@ -12,3 +12,6 @@ La vie n'est pas un jeu
 
 ##### No Woman no Cry
 The fugees
+
+###### Add and Commit
+In One step
